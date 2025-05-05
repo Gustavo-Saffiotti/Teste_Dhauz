@@ -14,7 +14,7 @@ o https://dhauz-challenges.s3.amazonaws.com/Travel_Chalenge.zip
 
 
 Comece respondendo as seguintes questões: 
-- 1 Faça uma etapa de processamento dos dados para verificar possíveis 
+- 1. Faça uma etapa de processamento dos dados para verificar possíveis 
 dados faltantes ou duplicados 
 - 2. Realize as etapas padrões de NLP nas colunas Review e Review_title (ex: 
 Tokenização, remoção de stop-words, ...) 
