@@ -7,6 +7,7 @@ companhias aéreas possam entender quais os principais pontos a melhorar a
 experiência do cliente. 
 Informações do dataset: 
  A base de dados das reviews foi coletada no site https://www.airlinequality.com/ 
+
  Link para baixar a base de dados: 
 o https://dhauz-challenges.s3.amazonaws.com/Travel_Chalenge.zip 
 Comece respondendo as seguintes questões: 
